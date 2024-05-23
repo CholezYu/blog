@@ -2,7 +2,7 @@
   "name": "blog",
   "author": "Cholez.Yu",
   "version": "0.0.1",
-  "description": "个人博客",
+  "description": "Cholez's blog",
   "license": "MIT",
   "type": "module",
   "scripts": {
